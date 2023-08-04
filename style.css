@@ -1,3 +1,39 @@
 header{
-    margin: auto;
+    margin: 0 500px;
+}
+nav{
+    width: 1300px;
+    height: 170px;
+    margin-left: 50px;
+}
+.box{
+    display: block;
+    background-color: #EEEEEE;
+    text-align: center;
+    clear: both;
+    width: 1204px;
+    height: 70px;
+    position: relative;
+    margin-left: 1px;
+}
+.boxs{
+    width:  400px;
+    height: 80px;
+    margin-left: 2px;
+    float: left;
+    text-align: center;
+    margin-top: 2px;
+}
+.bc{
+    background-color: #7EE5DA;
+}
+.bama{
+    background-color: #70CCC2;
+}
+.a{
+    background-color: #62B3AA;
+}
+.orta{
+    text-align: center;
+    clear: both;
 }
